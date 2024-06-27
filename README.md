@@ -8,4 +8,4 @@ npm install
 
 switch to http://localhost:3000/
 
-and enjoy!
+and enjoy!😂
